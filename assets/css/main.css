@@ -73,8 +73,8 @@ right: 60px;
 }
 .logo {
 position: relative;
-margin: 0 50px;
-text-align: left;
+    margin: 0 50px;
+    text-align: left;
 }
 .logo:before {
 content: '';
@@ -107,7 +107,7 @@ background-image: url(../img/Laboratoria_Logo.png), url(../img/bg.jpg);
 background-position-y: top;
 background-size: 170px, cover;
 background-repeat: no-repeat;
-background-position-x: center, left;
+background-position-x: 110px, left;
 width: 600px;
 height: 360px;
 margin: 0 auto;
